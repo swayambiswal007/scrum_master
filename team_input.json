@@ -1,0 +1,16 @@
+{
+  "team": [
+    {
+      "name": "Swayam",
+      "yesterday": "Worked on integrating the payment gateway.",
+      "today": "Will fix the login issue and refactor the dashboard.",
+      "blockers": "Blocked by missing API keys."
+    },
+    {
+      "name": "Neha",
+      "yesterday": "Tested user registration module.",
+      "today": "Writing test cases for OTP logic.",
+      "blockers": ""
+    }
+  ]
+}
